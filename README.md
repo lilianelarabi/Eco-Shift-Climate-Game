@@ -47,20 +47,19 @@ Guided by atmospheric scientist **Dr. Róisín Commane**, players travel through
 ---
 ## 📸 Screenshots & Media
 
-### Gameplay Snapshots  
-*(Replace placeholders with real screenshots from `/screenshots` folder)*
+### 🎮 Gameplay Snapshots  
+*(Replace placeholders with real screenshots from `/photos` folder)*
 
-| Title Screen | Side-Scrolling Gameplay | Decision Interface |
-|--------------|--------------------------|--------------------|
-| ![](screenshots/title.png) | ![](screenshots/gameplay.png) | ![](screenshots/decision.png) |
-
-### 🎨 Pixel Art Showcase
-![Pixel Art](photos/pixelartshow/pixel%20ar.png)
-![Pixel Art](photos/pixelartshow/pixel%20art%20sh.png)
-![Pixel Art](photos/pixelartshow/pixel%20art%20sho.png)
-![Pixel Art](photos/pixelartshow/pixel%20art%20show.png)
-![Pixel Art](photos/pixelartshow/pixel%20show.png)
-
+| Side-Scrolling Gameplay | Decision Example | Different Endings |
+|--------------------------|------------------|-------------------|
+| ![](photos/side%20scroll.png) | ![](photos/decision.png) | ![](photos/eco%20shift%20choices.png) |
 
 ---
-## 📂 Repository Structure
+
+### 🎨 Pixel Art Showcase  
+
+| ![](photos/pixelartshow/pixel%20ar.png) | ![](photos/pixelartshow/pixel%20art%20sh.png) | ![](photos/pixelartshow/pixel%20art%20sho.png) |
+|------------------------------------------|-----------------------------------------------|------------------------------------------------|
+| ![](photos/pixelartshow/pixel%20art%20show.png) | ![](photos/pixelartshow/pixel%20show.png) | |
+
+
