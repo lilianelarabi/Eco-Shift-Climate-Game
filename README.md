@@ -5,6 +5,11 @@
 
 **Eco-Shift** is an educational game built with the **Unity Engine** and **C#**, designed to translate complex climate science into an interactive experience.  
 Rather than presenting facts in static charts, Eco-Shift places players in a **side-scrolling, story-driven world** where every decision nudges Earth’s future in a better — or worse — direction.  
+## 🎮 Download & Play
+1. Navigate to the **[game](Eco-Shift.exe)** page.  
+2. Download the file: `Eco-Shift.exe`  
+3. Run the `.exe` file on your Windows PC.  
+4. Start exploring climate history and making decisions that shape the future!  
 
 ---
 ## 🎮 Why Eco-Shift?
@@ -62,4 +67,10 @@ Guided by atmospheric scientist **Dr. Róisín Commane**, players travel through
 |------------------------------------------|-----------------------------------------------|------------------------------------------------|
 | ![](photos/pixelartshow/pixel%20art%20show.png) | ![](photos/pixelartshow/pixel%20show.png) | |
 
+---
 
+⚠️ Note: 
+- The `.exe` is only supported on **Windows**.  
+- Windows may warn you about running an unknown file. Select **"Run anyway"** to continue (the game is safe).  
+- If you encounter issues, try right-clicking → *Run as Administrator*.  
+---
