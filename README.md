@@ -26,7 +26,7 @@ Guided by atmospheric scientist **Dr. Róisín Commane**, players travel through
 
 ---
 ## 👥 Who It’s For
-- **Students (12–18)** → Players who spend time on games and social media but often lack structured climate knowledge.  
+- **Students (7–18)** → Players who spend time on games and social media but often lack structured climate knowledge.  
 - **Educators & NGOs** → Institutions seeking accessible, gamified tools for climate literacy.  
 - **Curious Learners** → Anyone interested in exploring climate decisions through play, not just text.  
 
@@ -54,12 +54,13 @@ Guided by atmospheric scientist **Dr. Róisín Commane**, players travel through
 |--------------|--------------------------|--------------------|
 | ![](screenshots/title.png) | ![](screenshots/gameplay.png) | ![](screenshots/decision.png) |
 
-### Pixel Art Showcase  
-![Pixel Art](screenshots/pixel-art.png)
+### 🎨 Pixel Art Showcase
+![Pixel Art](photos/pixelartshow/pixel%20ar.png)
+![Pixel Art](photos/pixelartshow/pixel%20art%20sh.png)
+![Pixel Art](photos/pixelartshow/pixel%20art%20sho.png)
+![Pixel Art](photos/pixelartshow/pixel%20art%20show.png)
+![Pixel Art](photos/pixelartshow/pixel%20show.png)
 
-### Demo GIF  
-*(Optional short 5–10s looped gameplay GIF)*  
-![](screenshots/demo.gif)
 
 ---
 ## 📂 Repository Structure
